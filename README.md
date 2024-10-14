@@ -1,23 +1,15 @@
 
 <h1 align="center">
-  <a href="">
-    <picture>
-      <source height="200" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/iuvsqmp.png">
-      <img height="200" alt="Kraken" src="https://i.imgur.com/dUFfdvk.png">
-    </picture>
-  </a>
-  <br>
-</h1>
-<p align="center">
+
    A Python-based tool to centralize and streamline BruteForce Attacks
 </p>
 
-![screenshot](https://i.imgur.com/aYTy4Ll.gif)
+![screenshot](https://postimg.cc/0bXDTCdv)
 
 ---
 
 ## About The Project
-<b>Kraken</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
+<b>BruteXVamp</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
 
 ## ⚠️  WARNING: LEGAL DISCLAIMER
 
@@ -25,13 +17,6 @@ This tool is intended for educational purposes only. The author is not responsib
 for their actions.
 
 ---
-
-## 👀 Screenshots
-
-<p float="left" align="middle">
-  <img src="https://postimg.cc/0bXDTCdv" width="49%" height="px">
-  <img src="https://i.imgur.com/Xa0KzvD.png" width="49%">
-</p>
 
 ---
 
@@ -92,7 +77,7 @@ BruteXVamp offers a variety of tools for brute-forcing:
 ### Example:
 
 ```bash
-root@kraken:~# 1
+root@vamp:~# 1
 ```
 This command would start the FTP Brute Force tool.
 
