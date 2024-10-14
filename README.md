@@ -24,7 +24,7 @@ for their actions.
 To install BruteXVamp, follow these steps:
 
 ```bash
-git clone https://github.com/Jimmy7Xd/kraken.git
+git clone https://github.com/Jimmy7Xd/BruteXVamp.git
 cd Vamp
 pip install -r requirements.txt
 ```
