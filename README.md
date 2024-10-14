@@ -32,7 +32,7 @@ pip install -r requirements.txt
 To launch BruteXVamp:
 
 ```bash
-python Vamp.py
+python3 Vamp.py
 ```
 
 ---
