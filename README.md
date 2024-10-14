@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="">
     <picture>
-      <source height="200" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/iuvsqmp.png">
+      <source height="200" media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/tYoWMH3">
       <img height="200" alt="Kraken" src="https://i.imgur.com/dUFfdvk.png">
     </picture>
   </a>
