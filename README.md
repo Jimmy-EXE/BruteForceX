@@ -8,7 +8,7 @@
 ---
 
 ## About The Project
-<b>BruteXVamp</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
+<b>BruteXVamp</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. BruteXVamp provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
 
 ## ⚠️  WARNING: LEGAL DISCLAIMER
 
