@@ -29,7 +29,7 @@ for their actions.
 ## 👀 Screenshots
 
 <p float="left" align="middle">
-  <img src="https://i.postimg.cc/FHNpJWYY/retouch-2024101415153083.png" width="49%" height="px">
+  <img src="https://postimg.cc/0bXDTCdv" width="49%" height="px">
   <img src="https://i.imgur.com/Xa0KzvD.png" width="49%">
 </p>
 
