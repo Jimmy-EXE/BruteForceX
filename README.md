@@ -4,7 +4,7 @@
    A Python-Based tool to centralize and streamline BruteForce Attacks
 </p>
 
-[![retouch-2024101415153083.png](https://i.postimg.cc/FHNpJWYY/retouch-2024101415153083.png)](https://postimg.cc/0bXDTCdv)
+[![retouch-2024101415153083.png](https://i.postimg.cc/Hnqg2JJk/retouch-2024101415153083.png)](https://postimg.cc/5QST92qh)
 ---
 
 ## About The Project
